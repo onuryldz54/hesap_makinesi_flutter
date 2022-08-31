@@ -1,4 +1,4 @@
-# hesapMakinesi
+# Hesap Makinesi
 
 A new Flutter project.
 
